@@ -1,0 +1,16 @@
+Package: MitoCIAOData
+Title: Dataset of peptide spectrum matches for the Mitochondrial Complexes
+    InterActome tOol (MitoCIAO)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gabriele", "Sales", , "gabriele.sales@unipd.it",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2078-5661"))
+Description: A collection of peptide spectrum matches (PSMs) used by the
+    Mitochondrial Complexes InterActome tOol (MitoCIAO) to predict interactions
+    among proteins in high molecular weight complexes of the inner mitochondrial
+    membrane.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
